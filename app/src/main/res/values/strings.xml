@@ -1,0 +1,10 @@
+<resources>
+    <string name="facebook_app_id">338123353420686</string>
+    <string name="title_activity_sing_up">sing_up</string>
+    <string name="result_text_default">Please focus camera to QR Code</string>
+    <string name="facebook_login_protocol_scheme">fb338123353420686</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
